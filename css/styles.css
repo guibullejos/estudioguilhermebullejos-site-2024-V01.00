@@ -229,9 +229,9 @@ footer{
   margin: 120px 0 240px 240px;
 }
 
-img {
+/*img {
   width: 300px;
-}
+}*/
 
 nav a{
   display: inline-block;
@@ -330,8 +330,8 @@ section{
   width: 500px;
 }
 
-.imagens-projetos {
-  width: 520px;
+.imagem-arquiteto {
+    width: 300px;
 }
 
 .link-text{
@@ -340,6 +340,14 @@ section{
   font-family: "Barlow", sans-serif;
   font-size: 15px;
 }
+
+.link-artist{
+    color: #5f5f5f;
+    font-style: normal;
+    font-family: "Barlow", sans-serif;
+    font-size: 12px;
+    background-color: #FFFFFF;
+  }
 
 .profile {
   background-color: #FFFFFF;
@@ -432,7 +440,7 @@ div.scroll-container {
 
 div.scroll-container img {
   padding: 10px;
-  width: 420px;
+  height: 225px;
 }
 
 .row {
