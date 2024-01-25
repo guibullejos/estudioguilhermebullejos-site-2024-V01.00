@@ -269,17 +269,21 @@ section{
   color: #FFFFFF;
 }
 
-.box {
+/*.box {
   border: 1px;
   border-style: solid;
-}
+}*/
 
 .container-description{
-  padding-top: 60px;
-  position: absolute;
-  z-index: 1;
-  max-width: 360px;
-  margin-left: 240px
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right:20px;
+	padding-bottom: 20px
+	position: absolute;
+	z-index: 1;
+	max-width: 360px;
+	margin-left: 240px
+	backgroundcolor: #000000;
 
 }
 
