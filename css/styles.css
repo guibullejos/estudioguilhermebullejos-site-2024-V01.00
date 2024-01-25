@@ -275,16 +275,14 @@ section{
 }*/
 
 .container-description{
-	padding-top: 20px;
-	padding-left: 20px;
-	padding-right:20px;
-	padding-bottom: 20px
+	padding: 30px;
 	position: absolute;
 	z-index: 1;
 	max-width: 360px;
-	margin-left: 240px
-	backgroundcolor: #000000;
-
+	margin-left: 240px;
+  background-color: #ffffff;
+  height: 260px;
+  justify-content: center;
 }
 
 .container-sobre{
@@ -439,12 +437,12 @@ div.scroll-container {
   overflow: auto;
   white-space: nowrap;
   padding: 0px 0px 0px 720px;
-  gap: 10px;
+  gap: 15px;
 }
 
 div.scroll-container img {
-  padding: 10px;
-  height: 225px;
+  padding: 15px;
+  height: 300px;
 }
 
 .row {
