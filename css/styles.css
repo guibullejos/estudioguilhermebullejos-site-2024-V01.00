@@ -474,6 +474,10 @@ div.scroll-container img {
   justify-content: end;
 }
 
+.footer-links{
+  padding-right: 15px;
+}
+
 a:hover {
   color: #ff9898; /* Cor do link ao passar o mouse */
 }
